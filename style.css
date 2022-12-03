@@ -393,7 +393,7 @@ footer{
     color: hsl(228, 45%, 44%);
 }
     
-@media(max-width: 900px ) {
+@media(max-width: 500px ) {
     .testimonial,
     .stayproductive{
         flex-direction: column;
