@@ -404,6 +404,8 @@ footer{
     }
     .stayproductive_content{
         padding-left: 0rem ;
+        margin-left: 0rem;
+        padding-right: 0rem;
         width: 100%;
     }
     .contact_information {
@@ -444,8 +446,7 @@ footer{
         height: auto;
     }
 
-    .intro>div,
-    .features-item {
+    .features_small{
         width: 100%;
     }
 
@@ -498,7 +499,7 @@ footer{
         padding: 20rem 0rem 2rem;
         grid-template-columns: 100%;
         grid-template-rows: repeat(6, auto);
-        grid-template-areas: "logo""location""wireless""links""social"" attribution";
+        grid-template-areas: "logo""location""wireless""menu""social"" attribution";
     }
 
 
