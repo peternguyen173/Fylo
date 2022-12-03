@@ -416,7 +416,7 @@ footer{
         width: 100%
     }
 }
-@media (max-width: 375px) {
+@media (max-width: 500px) {
     .contact_information{
         margin-top: 10rem;
     }
