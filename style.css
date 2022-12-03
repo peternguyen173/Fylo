@@ -417,6 +417,9 @@ footer{
     .div3>div{
         width: 100%
     }
+    .sign_up_form {
+        padding-left: 0rem;
+}
 }
 @media (max-width: 500px) {
     .contact_information{
@@ -524,4 +527,5 @@ footer{
         padding: 1.5rem;
         margin: 0rem;
     }
+    
 }
